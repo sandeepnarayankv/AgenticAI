@@ -6,6 +6,7 @@ A Repository of All the Agentic AI Projects Which I am Developing to Learn
 
 
 Resources
+
 https://insights.daffodilsw.com/blog/top-20-agentic-ai-use-cases-in-the-real-world
 https://www.projectpro.io/article/ai-agent-projects/1060
 https://github.com/ashishpatel26/500-AI-Agents-Projects
